@@ -1,0 +1,8 @@
+E:\Dev\SnapTheGame\SnapTheGame\bin\Debug\SnapTheGame.exe.config
+E:\Dev\SnapTheGame\SnapTheGame\bin\Debug\SnapTheGame.exe
+E:\Dev\SnapTheGame\SnapTheGame\bin\Debug\SnapTheGame.pdb
+E:\Dev\SnapTheGame\SnapTheGame\obj\Debug\SnapTheGame.csproj.AssemblyReference.cache
+E:\Dev\SnapTheGame\SnapTheGame\obj\Debug\SnapTheGame.csproj.SuggestedBindingRedirects.cache
+E:\Dev\SnapTheGame\SnapTheGame\obj\Debug\SnapTheGame.csproj.CoreCompileInputs.cache
+E:\Dev\SnapTheGame\SnapTheGame\obj\Debug\SnapTheGame.exe
+E:\Dev\SnapTheGame\SnapTheGame\obj\Debug\SnapTheGame.pdb
